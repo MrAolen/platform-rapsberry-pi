@@ -1,0 +1,7 @@
+package com.gunther.rapsberry.bluetooth.bluetooth;
+
+import javax.bluetooth.DiscoveryListener;
+
+public class BluetoothDeviceDiscovery implements DiscoveryListener {
+
+}
