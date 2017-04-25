@@ -332,3 +332,123 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact net.sf.blueco
 2017-04-13 18:28:50,420 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\Rapsberry\workspace\bluetooth\src\main\resources
 2017-04-13 18:28:50,422 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-04-13 18:28:50,422 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\Rapsberry\workspace\bluetooth\src\test\resources
+2017-04-20 20:50:07,193 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gunther.rapsberry.bluetooth:bluetooth:0.0.1-SNAPSHOT @ F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\pom.xml.
+2017-04-20 20:50:08,306 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove/2.1.1-SNAPSHOT/maven-metadata.xml
+2017-04-20 20:50:08,556 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove/2.1.1-SNAPSHOT/maven-metadata.xml
+2017-04-20 20:50:08,809 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove/2.1.1-SNAPSHOT/bluecove-2.1.1-20101024.214840-60.pom
+2017-04-20 20:50:09,451 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove/2.1.1-SNAPSHOT/bluecove-2.1.1-20101024.214840-60.pom
+2017-04-20 20:50:09,758 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove-parent/2.1.1-SNAPSHOT/maven-metadata.xml
+2017-04-20 20:50:10,001 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove-parent/2.1.1-SNAPSHOT/maven-metadata.xml
+2017-04-20 20:50:10,240 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove-parent/2.1.1-SNAPSHOT/bluecove-parent-2.1.1-20101025.080249-64.pom
+2017-04-20 20:50:10,783 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove-parent/2.1.1-SNAPSHOT/bluecove-parent-2.1.1-20101025.080249-64.pom
+2017-04-20 20:50:11,034 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove/2.1.1-SNAPSHOT/bluecove-2.1.1-20101024.214840-60.jar
+2017-04-20 20:50:12,883 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.pyx4j.com/maven2-snapshot/net/sf/bluecove/bluecove/2.1.1-SNAPSHOT/bluecove-2.1.1-20101024.214840-60.jar
+2017-04-20 20:50:13,239 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-20 20:50:13,240 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-20 20:50:13,242 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-20 20:50:13,242 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-20 20:50:15,649 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-20 20:50:15,652 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-20 20:50:15,656 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-20 20:50:15,656 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 18:58:01,737 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gunther.rapsberry.bluetooth:bluetooth:0.0.1-SNAPSHOT @ F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\pom.xml.
+2017-04-25 18:58:03,435 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:58:03,435 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 18:58:03,436 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 18:58:03,437 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 19:29:40,747 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:40,747 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 19:29:40,748 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:40,749 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 19:29:46,360 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:46,360 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 19:29:46,361 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:46,361 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 19:29:49,696 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:49,696 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 19:29:49,696 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:49,697 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 19:29:50,875 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:50,875 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 19:29:50,875 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:50,876 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 19:29:51,941 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:51,941 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 19:29:51,942 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:29:51,942 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 19:30:07,034 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:30:07,034 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 19:30:07,035 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:30:07,035 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 19:30:10,427 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:30:10,428 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 19:30:10,429 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 19:30:10,430 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 22:56:26,811 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:56:26,812 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 22:56:26,813 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 22:56:26,813 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:18:03,722 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:18:03,724 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:18:03,725 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:18:03,725 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:18:09,747 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:18:09,747 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:18:09,748 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:18:09,748 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:19:54,143 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:19:54,143 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:19:54,144 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:19:54,144 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:19:59,704 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:19:59,704 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:19:59,705 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:19:59,705 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:20:29,535 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:29,535 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:20:29,536 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:29,536 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:20:37,784 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:37,784 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:20:37,785 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:37,785 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:20:41,766 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:41,767 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:20:41,769 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:41,769 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:20:55,942 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:55,942 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:20:55,943 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:20:55,943 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:21:58,923 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:21:58,923 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:21:58,924 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:21:58,924 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:22:09,441 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:22:09,441 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:22:09,442 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:22:09,442 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:33:41,126 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:33:41,127 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:33:41,127 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:33:41,127 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:35:28,939 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:35:28,939 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:35:28,940 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:35:28,940 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:35:40,053 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:35:40,054 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:35:40,054 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:35:40,054 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:35:48,853 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:35:48,853 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:35:48,854 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:35:48,854 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:36:03,121 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:36:03,121 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:36:03,121 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:36:03,121 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources
+2017-04-25 23:36:06,346 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:36:06,346 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\main\resources
+2017-04-25 23:36:06,347 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-25 23:36:06,347 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Projet\rapsberry\platform-rapsberry-pi\workspace\bluetooth\src\test\resources

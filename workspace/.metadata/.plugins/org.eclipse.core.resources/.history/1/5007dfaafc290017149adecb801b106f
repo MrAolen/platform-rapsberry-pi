@@ -1,0 +1,10 @@
+package com.gunther.rapsberry.bluetooth.bluetooth;
+
+public class ShellCommandExecutor {
+	
+	public String executeCommand(String command) {
+		StringBuffer output = new StringBuffer();
+		
+		
+	}
+}
