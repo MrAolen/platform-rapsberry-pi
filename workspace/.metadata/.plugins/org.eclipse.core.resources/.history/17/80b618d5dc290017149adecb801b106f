@@ -1,8 +1,0 @@
-package com.gunther.rapsberry.bluetooth.bluetooth;
-
-public class App {
-
-	public static void main(String[] args) {
-
-	}
-}

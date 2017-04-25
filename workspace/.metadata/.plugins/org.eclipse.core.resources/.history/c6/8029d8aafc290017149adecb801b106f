@@ -1,5 +1,0 @@
-package com.gunther.rapsberry.bluetooth.bluetooth;
-
-public class ShellCommandExecutor {
-
-}
