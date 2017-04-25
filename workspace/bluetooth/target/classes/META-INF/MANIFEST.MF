@@ -1,5 +1,7 @@
 Manifest-Version: 1.0
 Built-By: Gunther Nicolas
+Class-Path: lib/bluecove-2.1.1-20101024.214840-60.jar
 Build-Jdk: 1.8.0_131
 Created-By: Maven Integration for Eclipse
+Main-Class: com.mypackage.MyClass
 

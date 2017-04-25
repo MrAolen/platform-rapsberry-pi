@@ -1,0 +1,5 @@
+.recommenders/
+.sonarlint/
+.metadata/
+RemoteSystemsTempFiles/
+bluetooth/.settings/
